@@ -1,0 +1,13 @@
+# Dans tout ce qui suit, les guillemets/apostrophes ne font pas partie des chaines de characteres. 
+###### Spongy AES
+19
+hash = b'6+GDr39y52TbrvQBeM2cHw/gqCeFozZYY/W8SaQ8+RXPvKMsewoUx8uEWeilNYhvRthfPOpbwIyE67YnOLuqpA=='
+###### GCM
+m1       = b'This is a Test !'
+iv1      = b'NuIpy3Lh/Ldy7Mu8'
+c1       = b'R4C3f8X+u+wjPo76DEg1YQ=='
+t1       = b'ElxFElYoozGMiSn2i3jf/Q=='
+iv2      = b'NuIpy3Lh/Ldy7Mu8'
+c2       = b'Q4mtf8Wq6K43eLz6DVV7Jw=='
+t2       = b'ymW7lENkO0kNv+N4KQU1Iw=='
+mChall   = b'100.00CHF to ADC'
